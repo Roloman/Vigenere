@@ -1,0 +1,11 @@
+﻿  Vigenere.cpp
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(28,29): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(46,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(43,10): warning C4101: 'msn': variable local sin referencia
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(43,15): warning C4101: 'clv': variable local sin referencia
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(67,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(97,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(117,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(177,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Vigenere\Vigenere\Vigenere.cpp(201,23): warning C4018: '<': no coinciden signed/unsigned
+  Vigenere.vcxproj -> F:\San Pablo\Algebra Abstracta\Vigenere\Debug\Vigenere.exe
